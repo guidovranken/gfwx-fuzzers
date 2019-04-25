@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <optional>
+#include <string>
 
 namespace fuzzing {
 namespace memory {
